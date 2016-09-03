@@ -9,3 +9,13 @@
 **Link to Github repo:** [Markdown Previewer](https://github.com/sgroff04/markdown-previewer)
 
 **Today's Commit:** [Day 1](https://github.com/sgroff04/markdown-previewer/commit/3075994b6531f98777e65d6acac765e3b4cb5d33?diff=split)
+
+### Day 2: September 2, 2016
+
+**Today's Progress**: I finished building the React components and the app now works. Just needs styling.
+
+**Thoughts:** My React skills were a little rusty. Tomorrow I will look into using scss to style the app.
+
+**Link to Github repo:** [Markdown Previewer](https://github.com/sgroff04/markdown-previewer)
+
+**Today's Commit:** [Day 2](https://github.com/sgroff04/markdown-previewer/commit/9b23c39b73660b3f3fb57d2fdb8e7d43a7eb6a04)
