@@ -37,3 +37,13 @@ loaders: [
 **Link to Github repo:** [Markdown Previewer](https://github.com/sgroff04/markdown-previewer)
 
 **Today's Commit:** [Day 3](https://github.com/sgroff04/markdown-previewer/commit/e8e6ac77e3044b8c0bb1585c4ff063e154219d42)
+
+### Day 4: September 4, 2016
+
+**Today's Progress**: I built out the React project skeleton using react-create-app. I will also be using Bootstrap, Sass, Axios, and Fixed-date-table.
+
+**Thoughts:** Today I spent the hour building out the project skeleton and installing the libraries I'll be using. Tomorrow I will build out the API using Axios to grab the Free Code Camp leaderboard data.
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 4](https://github.com/sgroff04/FCC-Leaderboard/commit/b5f00675cc2a6d7f2d5414387825c0b5ddb468ed)
