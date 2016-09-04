@@ -19,3 +19,21 @@
 **Link to Github repo:** [Markdown Previewer](https://github.com/sgroff04/markdown-previewer)
 
 **Today's Commit:** [Day 2](https://github.com/sgroff04/markdown-previewer/commit/9b23c39b73660b3f3fb57d2fdb8e7d43a7eb6a04)
+
+### Day 3: September 3, 2016
+
+**Today's Progress**: I added Sass to the project, basic styling, project finished!
+
+**Thoughts:** I learned how to eject react-create-app using ```npm run eject``` so I could add Sass to the project. Adding sass-loader to webpack was really easy.
+```
+loaders: [
+  {
+    test: /\.scss$/,
+    loaders: ['style', 'css', 'sass']
+  }
+]
+```
+
+**Link to Github repo:** [Markdown Previewer](https://github.com/sgroff04/markdown-previewer)
+
+**Today's Commit:** [Day 3](https://github.com/sgroff04/markdown-previewer/commit/e8e6ac77e3044b8c0bb1585c4ff063e154219d42)
