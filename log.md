@@ -47,3 +47,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 4](https://github.com/sgroff04/FCC-Leaderboard/commit/b5f00675cc2a6d7f2d5414387825c0b5ddb468ed)
+
+### Day 5: September 5, 2016
+
+**Today's Progress**: I got the data from the API end-points using Axios. Did not get the data rendered on the page...
+
+**Thoughts:** Axios was really simple to use. The `.get()` method returns a promise object. To access the data on the promise object you call the `.then()` method and pass it a callback function. `then` is a property on the promise object. You can simultaneously call multiple `.get()` methods by calling `.all()` which takes an array of promise getters.  
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 5](https://github.com/sgroff04/FCC-Leaderboard/commit/be37494b5699e4c008115e8c60b293df69c0408a)
