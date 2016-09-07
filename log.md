@@ -66,4 +66,4 @@ loaders: [
 
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
-**Today's Commit:** [Day 5](https://github.com/sgroff04/FCC-Leaderboard/commit/d55f8639347203b0ee2b323bd1855876cad88fd6)
+**Today's Commit:** [Day 6](https://github.com/sgroff04/FCC-Leaderboard/commit/d55f8639347203b0ee2b323bd1855876cad88fd6)
