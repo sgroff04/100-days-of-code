@@ -57,3 +57,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 5](https://github.com/sgroff04/FCC-Leaderboard/commit/be37494b5699e4c008115e8c60b293df69c0408a)
+
+### Day 6: September 6, 2016
+
+**Today's Progress**: I finally got the data rendered to the page and started building the table.
+
+**Thoughts:** The `render()` method was trying to render object properties on an undefined array (ex. `this.state.recent[0].username`) since the Promise has not yet returned any data to `this.state`. This was causing an error and the app to crash.
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 5](https://github.com/sgroff04/FCC-Leaderboard/commit/d55f8639347203b0ee2b323bd1855876cad88fd6)
