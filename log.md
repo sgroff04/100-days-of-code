@@ -67,3 +67,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 6](https://github.com/sgroff04/FCC-Leaderboard/commit/d55f8639347203b0ee2b323bd1855876cad88fd6)
+
+### Day 7: September 7, 2016
+
+**Today's Progress**: I broke each Table cell into seperate `<Cell />` components and rendered the proper data for each column cell in the table.
+
+**Thoughts:** Still learning and getting used to using Fixed-data-table. I was able to render the proper data for each table column and broke each column cell into their own stateless components Tomorrow I need to add some basic styling to make the data resemble a table.
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 7](https://github.com/sgroff04/FCC-Leaderboard/commit/a33202c08e13b74cbdf5bc6616717d855b7d5406)
