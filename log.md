@@ -77,3 +77,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 7](https://github.com/sgroff04/FCC-Leaderboard/commit/a33202c08e13b74cbdf5bc6616717d855b7d5406)
+
+### Day 8: September 8, 2016
+
+**Today's Progress**: I finished the styling for the Leaderboard, nothing exciting.
+
+**Thoughts:** It now looks like a Table, yay.
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 8](https://github.com/sgroff04/FCC-Leaderboard/commit/46d3601a17e738d7a70f3e0578886fee5010b270)
