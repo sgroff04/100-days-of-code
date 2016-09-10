@@ -87,3 +87,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 8](https://github.com/sgroff04/FCC-Leaderboard/commit/46d3601a17e738d7a70f3e0578886fee5010b270)
+
+### Day 9: September 9, 2016
+
+**Today's Progress**: The table data can now be sorted by Top 100 Campers over the past 30 days or all time. Project finished!
+
+**Thoughts:**  This project shows how fast React is at rendering data. I'm going to use Redux for the rest of my React projects going forward.
+
+**Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
+
+**Today's Commit:** [Day 9](https://github.com/sgroff04/FCC-Leaderboard/commit/2294bff766cf9523519e45bdae0e35e171d258cb)
