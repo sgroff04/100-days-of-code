@@ -97,3 +97,13 @@ loaders: [
 **Link to Github repo:** [Free Code Camp Campers Leaderboard](https://github.com/sgroff04/FCC-Leaderboard)
 
 **Today's Commit:** [Day 9](https://github.com/sgroff04/FCC-Leaderboard/commit/2294bff766cf9523519e45bdae0e35e171d258cb)
+
+### Day 10: September 12, 2016
+
+**Today's Progress**: Got the project setup and planned
+
+**Thoughts:**  react-create-app is great
+
+**Link to Github repo:** [Free Code Camp Recipe Box](https://github.com/sgroff04/Recipe-Box)
+
+**Today's Commit:** [Day 10](https://github.com/sgroff04/FCC-Leaderboard/commit/2294bff766cf9523519e45bdae0e35e171d258cb)
